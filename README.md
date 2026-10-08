@@ -11,6 +11,7 @@ Prende il posto del foglio Numbers `BUDGET.numbers`.
 - **Quanto ti resta.** Per il mese in corso mostra l'avanzo, quanto puoi spendere al giorno fino a fine mese, il ritmo rispetto ai mesi precedenti e l'avanzo stimato.
 - **Dove vanno i soldi.** Categorie, spese più grandi, piccole spese sotto i 10 €, giorni della settimana in cui spendi di più, fonti di entrata.
 - **Obiettivo di risparmio.** Se lo imposti, l'importo giornaliero tiene conto di quello che vuoi mettere da parte.
+- **Soldino**, la moneta mascotte, cambia faccia in base a come va il mese: sorride se sei in linea, suda se stai spendendo troppo in fretta, festeggia i mesi in cui risparmi tanto.
 - **Funziona offline** e si installa sulla schermata Home come un'app.
 
 ## Installazione su iPhone
@@ -42,3 +43,4 @@ Dopo aver cambiato i file, aumenta il numero in `CACHE` dentro `sw.js` (per esem
 | `sw.js` | Service worker per l'uso offline |
 | `manifest.webmanifest` | Nome, colori e icone per l'installazione |
 | `icons/` | Icone dell'app |
+| `fonts/` | Font Fredoka (licenza SIL OFL, vedi `fonts/OFL.txt`) |

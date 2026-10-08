@@ -1,6 +1,6 @@
 // Budget — service worker: l'app funziona anche offline.
 // Cambia CACHE a ogni nuova versione per aggiornare i file salvati.
-const CACHE = 'budget-v1';
+const CACHE = 'budget-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -9,6 +9,7 @@ const ASSETS = [
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
   './icons/apple-touch-icon.png',
+  './fonts/fredoka-latin-wght.woff2',
 ];
 
 self.addEventListener('install', event => {
