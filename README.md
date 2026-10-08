@@ -3,7 +3,7 @@
 Webapp per tenere le entrate e le uscite mese per mese, pensata per iPhone 14.
 Prende il posto del foglio Numbers `BUDGET.numbers`.
 
-**Apri l'app:** https://muccaugo.github.io/budget/
+**Apri l'app:** https://muccaugo.github.io/Budget/
 
 ## Cosa fa
 
